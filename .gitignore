@@ -4,6 +4,7 @@
 *.pyo
 *.webassets-cache
 *.egg-info
+dist
 
 # other #
 #########
