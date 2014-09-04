@@ -11,7 +11,7 @@ setup(
     license='BSD',
     author='Marcel Tschopp',
     author_email='mt@corova.net',
-    description='elasticsearch-py for flask',
+    description='Integrates official client for Elasticsearch into Flask',
     long_description=long_description,
     py_modules=['flask_elastic'],
     zip_safe=False,
