@@ -1,7 +1,7 @@
 Flask-Elastic
 =============
 
-Integrates the official [Python low-level client for Elasticsearch](https://github.com/elasticsearch/elasticsearch-py) into Flask.
+Integrates the official `Python low-level client for Elasticsearch <https://github.com/elasticsearch/elasticsearch-py>`_ into Flask.
 
 Installation
 ------------
@@ -18,7 +18,7 @@ The only configuration is ``ELASTICSEARCH_URL``, defaults to ``localhost:9200``
 Usage
 -----
 
-Import the extension into your Flask project and initialise::
+Import the extension into your Flask project and initialize:
 
 	from flask.ext.elastic import Elastic
 
@@ -27,4 +27,4 @@ Import the extension into your Flask project and initialise::
 Development
 -----------
 
-Source code is hosted on [GitHub](https://github.com/bbmogool/flask-elastic) (contributions are welcome).
+Source code is hosted on `GitHub <https://github.com/bbmogool/flask-elastic>`_ (contributions are welcome).
