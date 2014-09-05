@@ -13,7 +13,7 @@ Flask-Elastic is pip installable:
 Configure
 ---------
 
-The only configuration is ``ELASTICSEARCH_URL``, defaults to ``localhost:9200``
+The only configuration is ``ELASTICSEARCH_URL``, defaults to ``localhost:9200``. You can pass any kwargs to ``Elastic()`` for further configuration. The kwargs will be passed to ``Elasticsearch()``.
 
 Usage
 -----
