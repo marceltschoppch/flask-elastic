@@ -6,7 +6,7 @@ with open('README.rst') as fp:
 
 setup(
     name='Flask-Elastic',
-    version='0.1',
+    version='0.2',
     download_url='https://github.com/bbmogool/flask-elastic/',
     license='BSD',
     author='Marcel Tschopp',
